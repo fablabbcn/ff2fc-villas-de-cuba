@@ -15,7 +15,7 @@ theme:
 
   features:
     - instant
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     - navigation.instant
     # - navigation.prune
@@ -28,6 +28,7 @@ theme:
     - search.share
     - search.suggest
     - content.tooltips
+
   custom_dir: 'custom_theme'
   palette:
     # See assets/stylesheets/extra.css file for the color definitions
