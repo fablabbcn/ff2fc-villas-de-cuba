@@ -1,17 +1,18 @@
-site_name: Test
-site_description: Master on Design For Emergent Futures Documentation
+site_name: INTRODUCCIÓN A LA FABRICACIÓN DIGITAL
+site_description: Training programs & Advisory Services
 site_author: Fab Lab Barcelona
 site_url: https://fablabbcn.github.io/digifab/
 repo_name: digifab
 repo_url: https://github.com/fablabbcn/digifab
 
-# nav:
-#  - Main:
-#    - Welcome: index.md
+nav:
+   - Main:
+   - Welcome: index.md
 
 theme:
   language: 'en'
   name: 'material'
+
   features:
     - instant
     # - navigation.expand
