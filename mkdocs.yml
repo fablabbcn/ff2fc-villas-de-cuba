@@ -1,10 +1,9 @@
-site_name: MDEF Docs
+site_name: Test
 site_description: Master on Design For Emergent Futures Documentation
-site_author: IAAC, ELISAVA, Fab Lab Barcelona
+site_author: Fab Lab Barcelona
 site_url: https://fablabbcn.github.io/digifab/
 repo_name: digifab
 repo_url: https://github.com/fablabbcn/digifab
-
 
 # nav:
 #  - Main:
