@@ -6,8 +6,8 @@ repo_name: digifab
 repo_url: https://github.com/fablabbcn/digifab
 
 nav:
-   - Main:
-   - Welcome: index.md
+  - Main:
+      - Welcome: index.md
 
 theme:
   language: 'en'
