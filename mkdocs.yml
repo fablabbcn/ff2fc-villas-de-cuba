@@ -13,7 +13,13 @@ nav:
   - Modulo 2:
       - Intro Fab City: modulo_2/fabcity.md
       - Proyectos: modulo_2/presentaciones.md
-
+  - Modulo 3:
+      - Explorando futuros emergentes: modulo_3/aows.md
+      - Proyectos: modulo_3/presentaciones.md
+  - Modulo 4:
+      - Introducción fabricación digital: modulo_4/intro.md
+      - Introducción a Git: modulo_4/git.md
+      - Modelado 2D/3D: modulo_4/modelado.md
 theme:
   language: 'en'
   name: 'material'
