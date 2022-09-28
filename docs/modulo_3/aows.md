@@ -15,15 +15,17 @@ Todo ello para dotar a los participantes de herramientas que les permitan encont
 ## Agenda
 La estructura de desarrollo para cada Global Subject es la siguiente:
 
-10:00 	Charla Inspiracional.
+**10:00 	Charla Inspiracional.**
 
-Mariana Quintero. Emergent Futures Strategic Advisor
+*Mariana Quintero. Emergent Futures Strategic Advisor*
+
 Introducción a los participantes en Fab City y Atlas Weak Signals y sus principales conceptos.
 
-11:00 	( Coffee break )
-11:15 	Atlas of Weak Signals
+**11:00 	( Coffee break )**
+**11:15 	Atlas of Weak Signals**
 
-Mariana Quintero. Emergent Futures Strategic Advisor
+*Mariana Quintero. Emergent Futures Strategic Advisor*
+
 Los participantes se dividirán en grupos y después de una conversación introductoria se presentará la metodología del "Atlas of Weak Signals” para desarrollar el reto de construir posibles escenarios futuros en relación con algunas de las cuestiones clave que se presentaron en el enfoque introductorio de Fab City Full Stack.
 
-14:00 	Fin de las actividades del  módulo 3
+**14:00 	Fin de las actividades del  módulo 3**

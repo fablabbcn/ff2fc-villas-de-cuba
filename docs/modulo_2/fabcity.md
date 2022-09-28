@@ -8,7 +8,9 @@ La formación de los equipos responsables de la gestión de nuevos Fab Labs es u
 ## Agenda
 
 **10:00h 	Ciudades Productivas.**
-Tomás Diez Ladera. Fab Lab Barcelona Strategic Director
+
+*Tomás Diez Ladera. Fab Lab Barcelona Strategic Director*
+
 Introducción a modelos circulares, creación y trabajo en red local en el marco del proyecto Fab City. Principios del Strategic Action Plan.
 
 **11:00 	( Coffee break )**
@@ -24,9 +26,9 @@ Impacto y Crecimiento. Remix (SISCODE) / Shemakes / Food Shift / CENTRINNO.
 
 **12:15 	Ecosistema local: Tour guiado para visitar mejores prácticas de otros espacios maker en Barcelona.**
 
-Matias Verderau. Social Innovation Researcher
+*Matias Verderau. Social Innovation Researcher*
 
-Martí Burriel. Referente en Fabricación Digital del  Área de Innovación, Programas y Formación de la Generalitat de Catalunya.
+*Martí Burriel. Referente en Fabricación Digital del  Área de Innovación, Programas y Formación de la Generalitat de Catalunya.*
 
 Visita guiada a un Ateneu de Fabricació digital. La Red de Ateneus son un servicio público del Ayuntamiento de Barcelona que divulga la tecnología y la ciencia de la fabricación digital. Son lugares para aprender, colaborar en diferentes proyectos y formar parte del desarrollo social de la ciudad. Todo el mundo puede disfrutar de espacios, herramientas y recursos públicos, y proponer proyectos que mejoren el entorno más próximo.
 
