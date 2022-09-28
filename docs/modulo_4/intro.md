@@ -1,21 +1,11 @@
-## Descripción
+## Git
 
-Programa que introduce y dota a los participantes de los conocimientos básicos en fabricación digital.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyRhXfNCAduO8Q47WdpjQ_QBo04VT5AH94GLpbbeqHVm-0bRnwSVbD-Ef1o_ngWrW3-90P_rcJ1LXC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Entre sus contenidos principales se encuentran las siguientes temáticas:
-Introducción al diseño web (herramientas digitales)
-27 de septiembre:	15:00 - 19:00
-Diseño 2D y 3D para láser y cnc
-28 de septiembre:	15:00 - 19:00
-Corte láser controlado por computadora
-29 de septiembre:	15:00 - 19:00
-Impresión 3D y fabricación aditiva
-30 de septiembre:	10:00 - 13:00 y de 15:00 - 19:00
-Introducción a Arduino
-3 de octubre:	10:00 - 13:00 y de 15:00 - 19:00
-Diseño y producción de circuitos - milling CNC
-4 de octubre:	10:00 - 13:00 y de 15:00 - 19:00
-Control numérico computerizado - Router CNC
-5 de octubre:	10:00 - 13:00 y de 15:00 - 19:00
+## Referencias o links de interés
 
-Entre las actividades a desarrollar encontraremos: Master Classes, Demo Workshops - Prácticas y Soporte asíncrono.
+* [A graphic explanation](https://onlywei.github.io/explain-git-with-d3/)
+* [Book](https://git-scm.com/book/en/v2)
+* [Git Branching](https://learngitbranching.js.org/)
+* [GitLab-Atom-Basics](https://doane-ccla.gitbook.io/docs/git-version-control/git-workflow)
+* [Guide for terminal basics](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
