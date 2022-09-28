@@ -8,6 +8,10 @@ repo_url: https://github.com/fablabbcn/digifab
 nav:
   - Main:
       - Welcome: index.md
+  - Modulo 1:
+    - Intro Fablabs: modulo_1/fablabs.md
+  - Modulo 1:
+    - Intro Fab City: modulo_2/fabcity.md
 
 theme:
   language: 'en'
