@@ -12,6 +12,7 @@ nav:
       - Intro Fablabs: modulo_1/fablabs.md
   - Modulo 2:
       - Intro Fab City: modulo_2/fabcity.md
+      - Proyectos: modulo_2/presentaciones.md
 
 theme:
   language: 'en'
