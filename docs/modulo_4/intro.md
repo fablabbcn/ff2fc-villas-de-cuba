@@ -1,22 +1,20 @@
 ## Participantes en el apartado técnico
 
-Franco Terenti Coll
+[Franco Terenti Coll](https://vinciu.notion.site/FabLab-5cb0a7ef90e24a728c1f1d0cabc5343c) 
 
-Ricardo Alfredo Palacios Herrada
+[Ricardo Alfredo Palacios Herrada](https://github.com/Pali1870/Repositorio-Pali/new/main)
 
-Marcela del Valle Vida Caputo
+[Leonardo José de la Vega](https://github.com/Ldelavega1980/mirepositorio)
 
-Leonardo José de la Vega
-
-Ana Cecilia Falivene
+[Ana Cecilia Falivene](https://github.com/cecifalivene/documentacionFB)
 
 Andrés Rubén Jones
 
 Andrea Victoria Sánchez
 
-Maximiliano Ezequiel Dias Gimenez
+[Maximiliano Ezequiel Dias Gimenez](https://github.com/maxiias/Fablab)
 
-Camila Lopez
+[Camila Lopez](https://github.com/camilalopezz/miepositorioFabLab)
 
 
 ## Enlaces del programa
