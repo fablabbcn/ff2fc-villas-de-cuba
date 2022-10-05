@@ -10,6 +10,8 @@ OPENDESK: https://www.opendesk.cc/
 Muebles de cartón: https://www.chairigami.com/
 AtFab: http://atfab.co/
 Fab Lab House: https://archello.com/project/the-fab-lab-house
+FlatFab: http://flatfab.com/
+Kerf spacing curve bending: https://www.blocklayer.com/kerf-spacing
 
 
 
