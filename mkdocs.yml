@@ -19,12 +19,12 @@ nav:
   - Modulo 4:
       - Intro: modulo_4/intro.md
       - Dia 1:Introducción a Git: modulo_4/git.md
-      - Dia 2:Modelado 2D/3D: modulo_4/modelado.md
+      - Dia 2:Modelado 2D/3D: modulo_4/biomaterials.md
       - Dia 3:Fabricación Aditiva: modulo_4/arduino.md
       - Dia 4:Electronica básica: modulo_4/arduino.md
       - Dia 5:Bio Materiales: modulo_4/biomaterials.md
       - Dia 5:PCB: modulo_4/git.md
-      - Dia 6:CNC: modulo_4/modelado.md
+      - Dia 6:CNC: modulo_4/biomaterials.md
 theme:
   language: 'en'
   name: 'material'
