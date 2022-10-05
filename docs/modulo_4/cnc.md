@@ -1,0 +1,23 @@
+# FRESADO CNC
+
+## Enlace a la presentación usada
+
+
+## Enlaces interesantes para revisar
+
+OPENDESK: https://www.opendesk.cc/
+50 Digital Joints: http://winterdienst.info/50-digital-wood-joints-by-jochen-gros/
+Muebles de cartón: https://www.chairigami.com/
+AtFab: http://atfab.co/
+Fab Lab House: https://archello.com/project/the-fab-lab-house
+
+
+
+## Software
+
+Slicer for Fusion 360: https://knowledge.autodesk.com/es/support/fusion-360/downloads/caas/downloads/downloads/ESP/content/slicer-for-fusion-360.html
+RhinoCAM: https://mecsoft.com/rhinocam/
+Fab Lab Feeds and Speeds calculator: https://pub.pages.cba.mit.edu/feed_speeds/
+Terrain to STL: https://jthatch.com/Terrain2STL/
+
+
