@@ -1,9 +1,10 @@
 # FRESADO CNC
 
-## Enlace a la presentación usada
+## Corte por control numérico (CNC)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg3sq_1S1bA2d9b2SAMNSZTWU4fBIAPUMtV--37nNObfwEdkEmkYOToyYkqaK6hdZGU6Wm4GBljQc5/pub?start=false&loop=false&delayms=3000"></iframe>
 
 
-## Enlaces interesantes para revisar
+## Referencias o links de interés
 
 OPENDESK: https://www.opendesk.cc/
 
