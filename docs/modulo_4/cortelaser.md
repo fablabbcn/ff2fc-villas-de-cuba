@@ -1,6 +1,6 @@
 ## Corte láser
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZOYOxwxaenKgFiWK80HdfEOVP66ChtQ-mT3vO_EMi4BcUnSkLAMeoZsrSlMg-ZD-xBtlPzKyo_YDr/pub?start=false&loop=false&delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZOYOxwxaenKgFiWK80HdfEOVP66ChtQ-mT3vO_EMi4BcUnSkLAMeoZsrSlMg-ZD-xBtlPzKyo_YDr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Referencias o links de interés
 
