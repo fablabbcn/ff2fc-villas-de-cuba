@@ -52,6 +52,8 @@ Acceder a la información sobre: [CNC](cnc.md)
 
 ## Proyectos finales Módulo 5
 
+Micro Challenge: [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRG1FnVz8EPJQHaJE5WEwbyEMovTpFFPnllDVxPh6BVM1bl9IqxdkGUNLFF-5oAXpLjvVVrGZRy40cJ/pub?start=false&loop=false&delayms=3000)
+
 ### Proyecto 1
 
 Acceder a la información sobre: [Proyecto 1](circuitos.md)
