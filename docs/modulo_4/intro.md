@@ -41,7 +41,7 @@ Información adicional: [GIT](git.md)
 
 ### Lunes 3 de Octubre: Introducción al Arduino y programación
 
-[Ver la presentación de la clase](presentaciones/M405-Arduino.pdf)
+[Ver la presentación de la clase](arduino.md)
 
 Información adicional: [Arduino](https://fablabbcn.github.io/digifab/modulo_4/arduino/)
 
