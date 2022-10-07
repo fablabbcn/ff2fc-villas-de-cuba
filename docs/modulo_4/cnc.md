@@ -1,7 +1,8 @@
 # FRESADO CNC
 
 ## Corte por control numérico (CNC)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg3sq_1S1bA2d9b2SAMNSZTWU4fBIAPUMtV--37nNObfwEdkEmkYOToyYkqaK6hdZGU6Wm4GBljQc5/pub?start=false&loop=false&delayms=3000"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg3sq_1S1bA2d9b2SAMNSZTWU4fBIAPUMtV--37nNObfwEdkEmkYOToyYkqaK6hdZGU6Wm4GBljQc5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Referencias o links de interés
