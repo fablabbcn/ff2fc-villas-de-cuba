@@ -1,6 +1,6 @@
 ## Producción de circuitos electrónicos
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJf24nJRs1NFp9ncOqGjaNLTmdyfv5eros2sjSBFdRRrvhVudWh0UQukKVHFRp_LjJ2gvwLIlNyH2Y/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJf24nJRs1NFp9ncOqGjaNLTmdyfv5eros2sjSBFdRRrvhVudWh0UQukKVHFRp_LjJ2gvwLIlNyH2Y/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Software
 
