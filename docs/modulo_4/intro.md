@@ -23,40 +23,40 @@ Andrea Victoria Sánchez
 
 ### Martes 27 de Septiembre: Introducción al diseño web y herramientas digitales
 
-[Ver la presentación de la clase](presentaciones/M401-webdesign-gitlab.pdf)
-
-Información adicional: [GIT](git.md)
+Acceder a la información sobre: [GIT](git.md)
 
 ### Miercoles 28 de Septiembre: Introducción al Diseño 2D y 3D
 
-[Ver la presentación de la clase](presentaciones/M402-2d-3d-design.pdf)
+Acceder a la información sobre: [Diseño 2D y 3D](2d-3d.md)
 
 ### Miercoles 29 de Septiembre: Introducción al Corte láser controlado por computadora
 
-[Ver la presentación de la clase](presentaciones/M403-lasercut.pdf)
+Acceder a la información sobre: [Corte láser](cortelaser.md)
 
 ### Viernes 30 de Septiembre: Introducción a Impresión 3D y fabricación aditiva
 
-[Ver la presentación de la clase](presentaciones/M404-3dprinting.pdf)
+Acceder a la información sobre: [Impresión 3D](impresion3d.md)
 
 ### Lunes 3 de Octubre: Introducción al Arduino y programación
 
-[Ver la presentación de la clase](arduino.md)
-
-Información adicional: [Arduino](https://fablabbcn.github.io/digifab/modulo_4/arduino/)
+Acceder a la información sobre: [Arduino](arduino.md)
 
 ### Martes 4 de Octubre: Introducción al diseño y producción de circuitos eléctricos
 
-[Ver la presentación de la clase](presentaciones/M406-Circuits.pdf)
-
-Workshop de Biomateriales: [ver la información](biomaterials.md)
+Acceder a la información sobre: [Producción de circuitos eléctricos](circuitos.md)
 
 ### Miercoles 5 de Octubre: Control numérico computerizado CNC
 
-[Ver la presentación de la clase](presentaciones/M407-CNC.pdf)
-
-Información adicional: [CNC](cnc.md)
+Acceder a la información sobre: [CNC](cnc.md)
 
 
+## Proyectos finales Módulo 5
 
+### Proyecto 1
+
+Acceder a la información sobre: [Proyecto 1](circuitos.md)
+
+### Proyecto 2
+
+Acceder a la información sobre: [Proyecto 2](cnc.md)
 
