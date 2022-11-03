@@ -20,7 +20,7 @@ nav:
   - Modulo 4:
       - Fabricación digital: modulo_4/intro.md
       - Introducción a Git: modulo_4/git.md
-      - Modelado 2D/3D: modulo_4/2D-3D.md
+      - Modelado 2D/3D: modulo_4/2d-3d.md
       - Fabricación Aditiva: modulo_4/impresion3d.md
       - Electronica básica: modulo_4/arduino.md
       - Bio Materiales: modulo_4/biomaterials.md
