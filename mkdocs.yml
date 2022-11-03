@@ -26,6 +26,10 @@ nav:
       - Dia 5:Bio Materiales: modulo_4/biomaterials.md
       - Dia 5:PCB: modulo_4/git.md
       - Dia 6:CNC: modulo_4/biomaterials.md
+  - Modulo 5:
+      - Intro: modulo_5/challenge.md
+      - Proyectos: modulo_5/recursos.md
+
 theme:
   language: 'en'
   name: 'material'
