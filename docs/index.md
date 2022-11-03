@@ -30,8 +30,7 @@ Segundo Módulo: Adaptar, acompañamos a los participantes en la aplicación de 
 Tercer Módulo: Crear, trabajamos conjuntamente en el diseño de programas y actividades que permitan maximizar el impacto del Fab Lab según los objetivos definidos en el modelo de Ciudades Productivas, con el objetivo de garantizar la autonomía y resiliencia del proyecto.
 
 
-
-## MÓDULOS FORMATIVOS 
+## MÓDULOS FORMATIVOS
 “From Fab Labs to Fab Cities - Training Program” está pensado como un programa de capacitación para apoyar y dar soporte a Fab Labs de nueva creación mediante el desarrollo de módulos específicos de formación transversal basados en la generación de capacidades.
 Módulos introductorios. Pensados para dotar a los participantes de conocimientos básicos necesarios para su introducción en el mundo de los Fab Labs.
 Módulos prácticos. Pensados para ofrecer a los participantes experiencias inmersivas mediante actividades hands-on y metodologías learning by doing.

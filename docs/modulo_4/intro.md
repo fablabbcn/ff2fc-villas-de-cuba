@@ -11,7 +11,7 @@ Entre sus contenidos principales se encuentran las siguientes temáticas:
 - [Introducción al Arduino y programación](arduino.md)
 - [Introducción al diseño y producción de circuitos eléctricos](circuitos.md)
 - [Control numérico computerizado CNC](cnc.md)
-- [Biomateriales](biomateriales.md)
+- [Biomateriales](biomaterials.md)
 
 
 ## Documentación de participantes
