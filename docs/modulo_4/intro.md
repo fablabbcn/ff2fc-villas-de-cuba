@@ -1,6 +1,20 @@
+## Descripción:
+
+Programa que introduce y dota a los participantes de los conocimientos básicos en fabricación digital. Entre sus contenidos principales se encuentran las siguientes temáticas:
+
+- Introducción al diseño web (herramientas digitales)
+- Diseño 2d y 3D para láser y cnc
+- Corte láser controlado por computadora
+- Modelado 3D
+- Escaneado 3d para prototipado rápido
+- Introducción a Arduino
+- Protocolos de comunicación
+
+
+
 ## Participantes en el apartado técnico
 
-[Franco Terenti Coll](https://vinciu.notion.site/FabLab-5cb0a7ef90e24a728c1f1d0cabc5343c) 
+[Franco Terenti Coll](https://vinciu.notion.site/FabLab-5cb0a7ef90e24a728c1f1d0cabc5343c)
 
 [Ricardo Alfredo Palacios Herrada](https://github.com/Pali1870/Repositorio-Pali/new/main)
 
@@ -61,4 +75,3 @@ Acceder a la información sobre: [Proyecto 1](circuitos.md)
 ### Proyecto 2
 
 Acceder a la información sobre: [Proyecto 2](cnc.md)
-
