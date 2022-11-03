@@ -14,7 +14,7 @@ Filosofía. Orígenes y destinos. Fab Charter y manifiesto.
 Organización. Usuarios, roles y  responsabilidades
 Management. Metodología, evaluación y programas educativos.
 
-**11:00 	( Coffee break )**
+**11:00 ( Coffee break )**
 
 **11:15 	Introducción a la Red Mundial de Fablabs, el papel de los nuevos fab labs como nodos dentro de una red global.**
 

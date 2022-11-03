@@ -1,5 +1,6 @@
 
 ## Descripción
+
 La formación de los equipos responsables de la gestión de nuevos Fab Labs es un factor clave para garantizar la coherencia entre los aspectos operativos y estratégicos. Este módulo está enfocado en proporcionar conocimientos a los participantes para que:
 - Puedan “adoptar” el modelo de ciudades productivas y comprender el impacto de los Fab Labs dentro del modelo Fab City Full Stack.
 - Desarrollen capacidades mediante el uso de recursos y métodos para identificar soluciones a largo plazo y apoyar la transición hacia una ciudad productiva.
