@@ -19,13 +19,13 @@ nav:
       - Recursos: modulo_3/recursos.md
   - Modulo 4:
       - Fabricación digital: modulo_4/intro.md
-      - Dia 1:Introducción a Git: modulo_4/git.md
-      - Dia 2:Modelado 2D/3D: modulo_4/biomaterials.md
-      - Dia 3:Fabricación Aditiva: modulo_4/arduino.md
-      - Dia 4:Electronica básica: modulo_4/arduino.md
-      - Dia 5:Bio Materiales: modulo_4/biomaterials.md
-      - Dia 5:PCB: modulo_4/git.md
-      - Dia 6:CNC: modulo_4/biomaterials.md
+      - Introducción a Git: modulo_4/git.md
+      - Modelado 2D/3D: modulo_4/biomaterials.md
+      - Fabricación Aditiva: modulo_4/impresion3d.md
+      - Electronica básica: modulo_4/arduino.md
+      - Bio Materiales: modulo_4/biomaterials.md
+      - PCB: modulo_4/circuitos.md
+      - CNC: modulo_4/cnc.md
   - Modulo 5:
       - Impact Accelerator: modulo_5/challenge.md
       - Proyectos: modulo_5/recursos.md
