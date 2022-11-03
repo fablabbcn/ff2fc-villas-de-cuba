@@ -1,7 +1,12 @@
 
-## Remix the School D*
+## Presentaciones
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyRhXfNCAduO8Q47WdpjQ_QBo04VT5AH94GLpbbeqHVm-0bRnwSVbD-Ef1o_ngWrW3-90P_rcJ1LXC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPvs2Ph0U6PQEDPm1TP5DtypGf712_EaGoy7OIlLkkzXJOGDgHC27v_XinEXB0wa1eTBZLCAdDdAwn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Referencias o links de interés
-- [Kumu](https://kumu.io/)
+- [Remix (SISCODE)](https://siscodeproject.eu/)
+- [Remix the school](https://fablabbcn.org/projects/remix-the-school)
+- [Shemakes](https://shemakes.eu/)
+- [Food Shift](https://foodshift2030.eu/)
+- [CENTRINNO](https://centrinno.eu/)
+- [Makeworks](https://make.works/)
