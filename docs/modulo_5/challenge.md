@@ -1,4 +1,3 @@
-
 ## Descripción
 
 En este módulo Fab Lab Barcelona propone experiencia de aprendizaje inmersivo en su modalidad de "Programa de Aceleración y Prototipado".

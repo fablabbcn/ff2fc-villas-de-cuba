@@ -18,7 +18,7 @@ nav:
       - Explorando futuros emergentes: modulo_3/aows.md
       - Recursos: modulo_3/recursos.md
   - Modulo 4:
-      - Intro: modulo_4/intro.md
+      - Fabricación digital: modulo_4/intro.md
       - Dia 1:Introducción a Git: modulo_4/git.md
       - Dia 2:Modelado 2D/3D: modulo_4/biomaterials.md
       - Dia 3:Fabricación Aditiva: modulo_4/arduino.md
@@ -27,7 +27,7 @@ nav:
       - Dia 5:PCB: modulo_4/git.md
       - Dia 6:CNC: modulo_4/biomaterials.md
   - Modulo 5:
-      - Intro: modulo_5/challenge.md
+      - Impact Accelerator: modulo_5/challenge.md
       - Proyectos: modulo_5/recursos.md
 
 theme:
