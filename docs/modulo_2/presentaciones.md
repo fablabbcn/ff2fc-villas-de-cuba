@@ -1,6 +1,6 @@
 ## Ciudades Productivas
 
-![Presentación Fabcity)](assets/presentaciones-39bcbb33.pdf)
+- [Presentación Fabcity)](assets/presentaciones-39bcbb33.pdf)
 
 ## Proyectos Fab Lab Barcelona
 
