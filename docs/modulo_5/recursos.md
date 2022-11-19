@@ -18,4 +18,4 @@
 
 ![](assets/recursos-fa21e5a3.png)
 
-- [Repositorio](https://github.com/cecifalivene/documentacionFB/blob/main/SENSORHOGAR.md)
+- [Repositorio](https://github.com/cecifalivene/documentacionFB/blob/main/SENSORHOGAR.MD)
