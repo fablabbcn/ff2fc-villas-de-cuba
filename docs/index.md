@@ -15,23 +15,23 @@ Dentro de un ecosistema de código abierto y mediante el uso de conceptos de la 
 ## “FROM FAB LABS TO FAB CITIES - TRAINING PROGRAMS”
 OBJETIVOS GENERALES
 Este programa tiene como principal objetivo apoyar y dar soporte a Fab Labs de nueva creación mediante el desarrollo de módulos específicos de formación transversal basados en la generación de capacidades.
-La capacitación se implementará transversalmente durante todos los módulos a dos niveles.
-Nivel Estratégico. Para conectar el potencial de las actividades de Fab Labs y Fab Cities con los objetivos del Ministerio de Turismo y Cultura de San Juan.
-Nivel Operativo. Para proporcionar conocimientos tecnológicos básicos y avanzados  necesarios para maximizar el potencial de la infraestructura propia de los Fab Labs.
+La formación se implementará transversalmente durante todos los módulos a dos niveles.
+Nivel Estratégico: Conectar el potencial de las actividades de Fab Labs y Fab Cities con los objetivos de la Organización.
+Nivel Operativo: Proporcionar conocimientos tecnológicos básicos y avanzados  necesarios para maximizar el potencial de la infraestructura propia de los Fab Labs.
 
 
 OBJETIVOS ESPECÍFICOS
-Ofrecer un programa de capacitación para el Ministerio de Turismo y Cultura de San Juan y darle soporte en la creación e implementación de un Fab Lab como punto de partida en el desarrollo de habilidades y recursos necesarios para iniciar la transición a un modelo urbano productivo, sostenible y circular, bajo el enfoque de Fab Lab Barcelona y Fab City.
+Ofrecer un programa de capacitación introductorio para la Organización y darle soporte en la creación, despliegue y gestión de un Fab Lab como punto de partida en el desarrollo de habilidades y recursos necesarios para iniciar la transición a un modelo urbano productivo, sostenible y circular, bajo el enfoque de Fab Lab Barcelona y Fab City.
 
 ## METODOLOGÍA
-Nuestro método pedagógico de capacitación para la implantación de Fab Labs en el marco de Ciudades Productivas desarrollado a lo largo de más de diez años consta de tres acercamientos:
-Primer Módulo: Adoptar, presentamos nuestra metodología y conseguimos que los participantes se sientan empoderados mediante el conocimiento del modelo de Ciudades Productivas.
-Segundo Módulo: Adaptar, acompañamos a los participantes en la aplicación de nuestro modelo al contexto local y a sus necesidades y recursos específicos para convertir el Fab Lab en una realidad.
-Tercer Módulo: Crear, trabajamos conjuntamente en el diseño de programas y actividades que permitan maximizar el impacto del Fab Lab según los objetivos definidos en el modelo de Ciudades Productivas, con el objetivo de garantizar la autonomía y resiliencia del proyecto.
+Nuestro método pedagógico de capacitación para la implantación de Fab Labs en el marco de Ciudades Productivas desarrollado a lo largo de más de diez años consta de tres enfoques:
+Adoptar: presentamos nuestra metodología y conseguimos que los participantes se sientan empoderados mediante el conocimiento del modelo de Ciudades Productivas.
+Adaptar: acompañamos a los participantes en la aplicación de nuestro modelo al contexto local y a sus necesidades y recursos específicos para convertir el Fab Lab en una realidad.
+Crear: trabajamos conjuntamente en el diseño de programas y actividades que permitan maximizar el impacto del Fab Lab según los objetivos definidos en el modelo de Ciudades Productivas, con el objetivo de garantizar la autonomía y resiliencia del proyecto.
 
 
 ## MÓDULOS FORMATIVOS
-“From Fab Labs to Fab Cities - Training Program” está pensado como un programa de capacitación para apoyar y dar soporte a Fab Labs de nueva creación mediante el desarrollo de módulos específicos de formación transversal basados en la generación de capacidades.
-Módulos introductorios. Pensados para dotar a los participantes de conocimientos básicos necesarios para su introducción en el mundo de los Fab Labs.
-Módulos prácticos. Pensados para ofrecer a los participantes experiencias inmersivas mediante actividades hands-on y metodologías learning by doing.
-Módulos de soporte y asesoramiento. Pensados para ofrecer servicios de consultoría y apoyo en la toma de decisiones e implementación de los conocimientos aprendidos.
+El programa de formación “From Fab Labs to Fab Cities” está diseñado como un programa de formación para apoyar a los Fab Labs de nueva creación o a los Fab Labs ya establecidos que buscan ampliar su impacto mediante el desarrollo de módulos específicos de formación transversal basados en el desarrollo de capacidades.
+Módulos introductorios: Pensados para dotar a los participantes de conocimientos básicos necesarios para su introducción en el mundo de los Fab Labs.
+Módulos prácticos: Pensados para ofrecer a los participantes experiencias inmersivas mediante actividades hands-on y metodologías learning by doing.
+Módulos de soporte y asesoramiento: Pensados para ofrecer servicios de consultoría y apoyo en la toma de decisiones e implementación de los conocimientos aprendidos.
