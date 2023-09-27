@@ -3,32 +3,28 @@
 **09:30 Bienvenida.**
 
 - Guillem Camprodon. Fab Lab Barcelona Executive Director.
-- Matías Verderau. Productor del programa
-- Santi Fuentemilla. Future Learning Lead
-- Noel Criado. Strategic Partnerships Lead
+- Noel Criado. Strategic Partnerships Lead.
 
-**10:00 Introducción inspiradora en el Fab Lab Barcelona, ​​visión general y conexión con Fab City.**
-*Guillem Camprodon. Fab Lab Barcelona Executive Directo*
+**10:00 Introducción inspiradora a Fab Lab Barcelona, ​​visión general y conexión con Fab City**
+*Guillem Camprodon. Fab Lab Barcelona Executive Director*
 
 Filosofía. Orígenes y destinos. Fab Charter y manifiesto.
-Organización. Usuarios, roles y  responsabilidades
+Organización. Usuarios, funciones y  responsabilidades
 Management. Metodología, evaluación y programas educativos.
 
-**11:00 ( Coffee break )**
+**11:00 Introducción a la Red Global de Fablabs, el papel de los nuevos fab labs como nodos de una red global**
 
-**11:15  Introducción a la Red Mundial de Fablabs, el papel de los nuevos fab labs como nodos dentro de una red global.**
+*Guillem Camprodon. Fab Lab Barcelona Executive Director*
+*Julia Leirado. Fab Lab Barcelona Future Learning Expert*
 
-*Nuria Robles. Directora Fab Lab León. Conexión en remoto.*
+**12:00  Visita guiada. Instalaciones y maquinaria**
 
-**12:15  Visita guiada. Instalaciones y maquinaria**
-
-*Mikel Llobera. Digital Fabrication Expert*
-*Santi Fuentemilla. Future Learning Lead*
+*Josep Martí. Fabrication Expert*
 
 Infraestructura. Equipamiento, espacios, herramientas y seguridad. Un recorrido intensivo e introducción a los equipos y herramientas de un makerspace como Fab Lab Barcelona.
 
-**13:00  Ecosistema local: Un tour guiado por el Poblenou Maker District de Barcelona.**
-*Matias Verderau. Social Innovation Researcher*
-Un tour guiado para visitar y experimentar las mejores prácticas de otros espacios maker en Barcelona, concretamente en el Distrito Urbano de Poblenou: el tour estará formado por una visita a la Superilla, otra al edificio MediaTIC y finalizará en LEKA Restaurant.
+**12:30  Ecosistema local: Una visita guiada por el Poblenou Maker District de Barcelona.**
+*Milena Juárez. Communities Expert*
+Un tour guiado para visitar y experimentar las mejores prácticas de otros espacios maker en Barcelona, concretamente en el Distrito Urbano de Poblenou: en el tour se visitarán los espacios de Transfolab, Paraguai Project y TMDC.
 
-**14:00  Fin de las actividades del  módulo 1**
+**14:00  Fin de las actividades del módulo 1**
