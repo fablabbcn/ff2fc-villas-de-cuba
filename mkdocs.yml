@@ -1,19 +1,19 @@
 site_name: FROM FAB LABS TO FAB CITIES
 site_description: Training programs & Advisory Services
 site_author: Fab Lab Barcelona
-site_url: https://fablabbcn.github.io/digifab/
+site_url: https://estelaurias.github.io/digifab/
 repo_name: digifab
-repo_url: https://github.com/fablabbcn/digifab
+repo_url: https://github.com/EstelaUrias/digifab
 
 nav:
   - Main:
-      - Welcome: index.md
+    - Welcome: index.md
   - Modulo 1:
-      - Intro Fablabs: modulo_1/fablabs.md
-      - Presentaciones: modulo_1/presentaciones.md
+    - Intro Fablabs: modulo_1/fablabs.md
+    - Presentaciones: modulo_1/presentaciones.md
   - Modulo 2:
-      - Intro Fab City: modulo_2/fabcity.md
-      - Proyectos: modulo_2/presentaciones.md
+    - Intro Fab City: modulo_2/fabcity.md
+    - Proyectos: modulo_2/presentaciones.md
 
 theme:
   language: 'en'
