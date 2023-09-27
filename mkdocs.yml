@@ -14,6 +14,21 @@ nav:
   - Modulo 2:
       - Intro Fab City: modulo_2/fabcity.md
       - Proyectos: modulo_2/presentaciones.md
+  - Modulo 3:
+      - Explorando futuros emergentes: modulo_3/aows.md
+      - Recursos: modulo_3/recursos.md
+  - Modulo 4:
+      - Fabricación digital: modulo_4/intro.md
+      - Introducción a Git: modulo_4/git.md
+      - Modelado 2D/3D: modulo_4/2d-3d.md
+      - Fabricación Aditiva: modulo_4/impresion3d.md
+      - Electronica básica: modulo_4/arduino.md
+      - Bio Materiales: modulo_4/biomaterials.md
+      - PCB: modulo_4/circuitos.md
+      - CNC: modulo_4/cnc.md
+  - Modulo 5:
+      - Impact Accelerator: modulo_5/challenge.md
+      - Proyectos: modulo_5/recursos.md
 
 theme:
   language: 'en'
