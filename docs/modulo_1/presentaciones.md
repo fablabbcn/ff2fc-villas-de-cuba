@@ -2,8 +2,7 @@
 ## Introducción inspiradora a Fab Lab Barcelona
 
 
-<iframe src="https://docs.google.com/presentation/d/15KlPlfCt_GzI-E6Hy5gNEn0i_1bVmZWseqwgL6iTcYk/edit#slide=id.g9983efc678_1_0" frameborder="0" width="960" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnbXPseKVYTUSa53ba6zCy1CKXa8D51WZK3ikGczQ9ww6Z4lqSKlfau2mgBpqKICdzwjGaJ7e500sd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Introducción a la Red Global de Fablabs
