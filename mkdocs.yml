@@ -9,7 +9,7 @@ nav:
   - Main:
       - Welcome: index.md
   - Módulo 1:
-      - Intro Fablabs: modulo_1/fablabs.md
+      - Introducción Fablabs: modulo_1/fablabs.md
       - Presentaciones: modulo_1/presentaciones.md
   - Módulo 2:
       - Intro Fab City: modulo_2/fabcity.md
