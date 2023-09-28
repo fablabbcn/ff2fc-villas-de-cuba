@@ -8,10 +8,10 @@ repo_url: https://github.com/EstelaUrias/digifab
 nav:
   - Main:
       - Welcome: index.md
-  - Modulo 1:
+  - Módulo 1:
       - Intro Fablabs: modulo_1/fablabs.md
       - Presentaciones: modulo_1/presentaciones.md
-  - Modulo 2:
+  - Módulo 2:
       - Intro Fab City: modulo_2/fabcity.md
       - Proyectos: modulo_2/presentaciones.md
       
