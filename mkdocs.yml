@@ -8,7 +8,6 @@ repo_url: https://github.com/EstelaUrias/digifab
 nav:
   - Main:
       - Welcome: index.md
-      - Intro Fab City: modulo_2/fabcity.md
   - Modulo 1:
       - Intro Fablabs: modulo_1/fablabs.md
       - Presentaciones: modulo_1/presentaciones.md
@@ -25,8 +24,8 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
+    - navigation.prune
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.stick
     - navigation.top
