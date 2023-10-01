@@ -6,6 +6,7 @@
 - Noel Criado. Strategic Partnerships Lead.
 
 **10:00 Introducción inspiradora a Fab Lab Barcelona, ​​visión general y conexión con Fab City**
+
 *Guillem Camprodon. Fab Lab Barcelona Executive Director*
 
 Filosofía. Orígenes y destinos. Fab Charter y manifiesto.
@@ -24,6 +25,7 @@ Management. Metodología, evaluación y programas educativos.
 Infraestructura. Equipamiento, espacios, herramientas y seguridad. Un recorrido intensivo e introducción a los equipos y herramientas de un makerspace como Fab Lab Barcelona.
 
 **12:30  Ecosistema local: Una visita guiada por el Poblenou Maker District de Barcelona.**
+
 *Milena Juárez. Communities Expert*
 
 Un tour guiado para visitar y experimentar las mejores prácticas de otros espacios maker en Barcelona, concretamente en el Distrito Urbano de Poblenou: en el tour se visitarán los espacios de Transfolab, Paraguai Project y TMDC.
