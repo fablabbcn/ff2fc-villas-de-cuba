@@ -6,7 +6,10 @@
 
 <iframe src="https://docs.google.com/presentation/d/1J8B_Gsni4OjysL2uJ0HSktGOFy6OOiOzXW6wtf38Zpg/edit" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Referencias o links de interés
+## Plan Director de la Red de Ateneos de Fabricación Digital de Barcelona
+### Resumen ejecutivo
+
+## Referencias o links de interés
 - [Smart Citizen](https://docs.smartcitizen.me/)
 - [ROMI](https://docs.romi-project.eu/)
 - [Remix (SISCODE)](https://siscodeproject.eu/)
