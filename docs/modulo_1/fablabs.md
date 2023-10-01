@@ -1,4 +1,3 @@
-## Agenda
 
 **09:30 Bienvenida.**
 
