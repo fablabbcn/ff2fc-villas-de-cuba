@@ -25,6 +25,7 @@ Infraestructura. Equipamiento, espacios, herramientas y seguridad. Un recorrido 
 
 **12:30  Ecosistema local: Una visita guiada por el Poblenou Maker District de Barcelona.**
 *Milena Juárez. Communities Expert*
+
 Un tour guiado para visitar y experimentar las mejores prácticas de otros espacios maker en Barcelona, concretamente en el Distrito Urbano de Poblenou: en el tour se visitarán los espacios de Transfolab, Paraguai Project y TMDC.
 
 **14:00  Fin de las actividades del módulo 1**
