@@ -4,6 +4,8 @@
 - [Transfolab](https://www.transfolabbcn.com/)
 - [Paraguay Project](https://make.works/companies/project-paraguay#history)
 
+## Contactos ecosistema de innovación de Barcelona
+
 Maker Convent
 Dirección: Centre Cívic Convent Agustí - Plaça de l'Acadèmia,
 Responsable: Oscar Martinez Ciuró
