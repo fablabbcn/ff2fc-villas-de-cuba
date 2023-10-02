@@ -1,9 +1,9 @@
 site_name: FROM FAB LABS TO FAB CITIES
 site_description: Training programs & Advisory Services
 site_author: Fab Lab Barcelona
-site_url: https://estelaurias.github.io/digifab/
-repo_name: digifab
-repo_url: https://github.com/EstelaUrias/digifab
+site_url: https://fablabbcn.github.io/ff2fc-villas-de-cuba/
+repo_name: ff2fc-villas-de-cuba
+repo_url: https://github.com/fablabbcn/ff2fc-villas-de-cuba
 
 nav:
   - Main:
@@ -32,6 +32,7 @@ theme:
     - navigation.tabs.stick
     - navigation.top
     - navigation.tracking
+    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
@@ -67,8 +68,6 @@ extra:
       link: 'https://www.instagram.com/fablabbcn/'
     - icon: fontawesome/brands/github
       link: 'https://www.github.com/fablabbcn/'
-  # project: ''
-  # footer_logo: '/assets/images/eu-flag.png'
   fullscreen_button: true
 
 plugins:
