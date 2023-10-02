@@ -1,8 +1,8 @@
-# digifab
+# FROM FAB LABS TO FAB CITIES
+
+Training programs & Advisory Services for _Universidad Villas de Cuba_
 
 ## Usage
-
-FROM FAB LABS TO FAB CITIES. Training programs & Advisory Services
 
 ### Install Python 3
 
