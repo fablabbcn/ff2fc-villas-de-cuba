@@ -11,9 +11,10 @@ nav:
   - Módulo 1:
       - Introducción Fablabs: modulo_1/fablabs.md
       - Presentaciones: modulo_1/presentaciones.md
+      - Ecosistema local Barcelona: modulo_1/ecosistemalocal.md
   - Módulo 2:
       - Intro Fab City: modulo_2/fabcity.md
-      - Proyectos: modulo_2/presentaciones.md
+      - Presentaciones: modulo_2/presentaciones.md
       
 theme:
   language: 'en'
