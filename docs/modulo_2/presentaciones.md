@@ -1,6 +1,6 @@
 ## Ciudades Productivas
 
-- [Presentación Fabcity](https://drive.google.com/drive/search?q=fab%20city%20full%20stack)
+- [Presentación Fabcity](assets/presentaciones-39bcbb33.pdf)
 
 ## Proyectos Fab Lab Barcelona
 
