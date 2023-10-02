@@ -1,7 +1,7 @@
 ## Ecosistema local: Poblenou Maker District de Barcelona
-*con Milena Juárez, Communities Expert*
+*con Milena Juárez, Communities Expert.*
 
-Un tour para experimentar las mejores prácticas de otros espacios maker
+Un tour para experimentar las mejores prácticas de otros espacios maker:
 
 - [TMDC](https://www.tmdc.es/)
 - [Transfolab](https://www.transfolabbcn.com/)
