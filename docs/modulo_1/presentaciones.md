@@ -12,4 +12,4 @@
 
 ## Protocolo para visitas. Instalaciones y maquinaria
 
-- [Presentación Fabcity)](assets/LabProtocol.pdf)
+- [Lab Protocol - Terms & Conditions](assets/LabProtocol.pdf)
