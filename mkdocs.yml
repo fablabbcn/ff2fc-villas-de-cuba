@@ -15,6 +15,7 @@ nav:
   - Módulo 2:
       - Intro Fab City: modulo_2/fabcity.md
       - Presentaciones: modulo_2/presentaciones.md
+      - Red pública de Fab Labs del Ayuntamiento de Barcelona: modulo_2/ateneus.md
       
 theme:
   language: 'en'
