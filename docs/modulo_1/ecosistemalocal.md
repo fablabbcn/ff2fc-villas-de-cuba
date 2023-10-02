@@ -9,22 +9,14 @@ Un tour para experimentar las mejores prácticas de otros espacios maker:
 
 ## Contactos ecosistema de innovación de Barcelona
 
-Maker Convent
-Dirección: Centre Cívic Convent Agustí - Plaça de l'Acadèmia,
-Responsable: Oscar Martinez Ciuró
-Correo: sarok8@gmail.com 
+  - [Maker Convent](https://conventagusti.com/maker/)
+Dirección: Centre Cívic Convent Agustí - Plaça de l'Acadèmia
 
-MakersZone BCN
-Dirección: C/ de Ricart, 36, 
-Responsable: Anam Stubbington
-Correo: makerszonebcn@gmail.com
+  - [MakersZone BCN](https://www.instagram.com/makerszonebcn/)
+Dirección: C/ de Ricart, 36 
 
-Akasha Hub
-Dirección: Carrer de la Verneda, 19, Nave 1, 
-Responsable: Carmen Tanaka
-Correo: carmen@akasha.barcelona
+  - [Akasha Hub](https://akasha.barcelona/)
+Dirección: Carrer de la Verneda, 19, Nave 1
 
-Atta 33 
+  - [Atta 33](https://atta33.com/) 
 Dirección: Carrer de Tànger, 33
-Responsable: (no tengo contacto directo)
-Correo: contacto@atta33.com
