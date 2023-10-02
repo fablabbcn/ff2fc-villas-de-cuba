@@ -4,8 +4,13 @@
 Un tour para experimentar las mejores prácticas de otros espacios maker:
 
 - [TMDC](https://www.tmdc.es/)
+Dirección: Rambla de Prim, 258
+
 - [Transfolab](https://www.transfolabbcn.com/)
+Dirección: C/ de la Ciutat de Granada, 71, bajos
+
 - [Paraguay Project](https://make.works/companies/project-paraguay#history)
+Dirección: C/ del Paraguay, 14
 
 ## Contactos ecosistema de innovación de Barcelona
 
